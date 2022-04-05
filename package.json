@@ -1,0 +1,39 @@
+{
+  "name": "eventbridge-input-transformer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.5.0",
+    "@heroicons/react": "^1.0.6",
+    "@monaco-editor/react": "^4.4.1",
+    "@tailwindcss/forms": "^0.5.0",
+    "copy-text-to-clipboard": "^3.0.1",
+    "lodash.debounce": "^4.0.8",
+    "lodash.get": "^4.4.2",
+    "monaco-editor": "^0.33.0",
+    "monaco-themes": "^0.4.0",
+    "next": "12.1.4",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-toastify": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash.debounce": "^4.0.6",
+    "@types/lodash.get": "^4.4.6",
+    "@types/node": "17.0.23",
+    "@types/react": "17.0.43",
+    "@types/react-dom": "17.0.14",
+    "autoprefixer": "^10.4.4",
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "typescript": "4.6.3"
+  }
+}

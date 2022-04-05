@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.view-lines .view-line span[class*="mtk"]:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.view-lines .view-line .mtk1{
+  text-decoration: none !important;
+  cursor: none;
+}
+
+.bg-theme {
+  background: #011627;
+}
+
+.editor-bg{
+  background: #011627;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.editor-error-container {
+  color: rgb(254, 127, 127);
+    background-color: rgb(40, 0, 0);
+}
