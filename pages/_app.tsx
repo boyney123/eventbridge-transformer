@@ -14,8 +14,8 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="description" content="Quickly generate input transforms for Amazon EventBridge with your events and browser." />
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Online EventBridge Transformer Generator" />
-        <meta property="og:description" content="Quickly generate input transforms for Amazon EventBridge with your events and browser." />
+        <meta property="og:title" content="Amazon EventBridge Transformer" />
+        <meta property="og:description" content="Quickly generate input paths and templates for Amazon EventBridge using your events." />
         <meta property="og:url" content="/social.png" />
         <meta property="og:url" content="https://eventbridge-transformer.vercel.app" />
         <meta property="og:image" content="https://eventbridge-transformer.vercel.app/social.png" />
